@@ -1,18 +1,17 @@
 <div align="center">
 
-<h3> 
-Miro Clone
-</h3>
+<h1> 
 
+Miro Clone
+
+</h1>
 
 ![Static Badge](https://img.shields.io/badge/clerk-hsla(252%2C%20100%25%2C%2063%25%2C%201)?style=for-the-badge&logo=clerk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/react-149eca?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/tailwind_css-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
+![Static Badge](https://img.shields.io/badge/Shadcn--ui-1e1e1e?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </div>
 
