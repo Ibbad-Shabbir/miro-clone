@@ -1,1 +1,1 @@
-![mi900m819-miro-logo-miro-for-startups](https://github.com/Ibbad-Shabbir/miro-clone/assets/98208897/1fe484ce-9d47-4d8b-842f-523509b12b9d)
+![logo](https://github.com/Ibbad-Shabbir/miro-clone/assets/98208897/9bb90d03-a178-4c6a-9e49-17b90d233938)
