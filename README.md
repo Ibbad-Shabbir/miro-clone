@@ -6,6 +6,9 @@ Miro Clone
 
 </h1>
 
+![Screenshot 2024-03-26 163329](https://github.com/Ibbad-Shabbir/miro-clone/assets/98208897/ef92c48e-0f20-4d9b-9f2a-bace7069a2ae)
+
+
 ![Static Badge](https://img.shields.io/badge/clerk-hsla(252%2C%20100%25%2C%2063%25%2C%201)?style=for-the-badge&logo=clerk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/react-149eca?style=for-the-badge&logo=react&logoColor=white)
